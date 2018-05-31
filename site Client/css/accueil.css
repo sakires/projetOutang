@@ -1,0 +1,15 @@
+#accueil{
+	padding: 30px 60px;
+	display: flex;
+	justify-content: space-between;
+}
+h1{text-align: center;
+padding: 10px;}
+.Img_plan{
+	width: 650px;
+	height: 450px;
+}
+.plan{
+	display: flex;
+	flex-direction: column;
+}
