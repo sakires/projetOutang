@@ -1,13 +1,16 @@
 #GBillets{
   padding: 20px;
+
 }
 h1,p{
-  padding: 12px;}
+  padding: 12px;
+}
 .Passfaire{
   padding: 10px;
+
 }
 h2{font-weight: bold;
-padding: 14px;}
+padding: 16px;}
 .butts_Pay{
     display: flex;
     justify-content: center;
@@ -43,10 +46,9 @@ th {
 }
 .text_cal{font-weight: bold;}
 .mois{
-  background: #ffc0cb;
+  color: blue;
   padding: 15px;
   font-weight: bold;
-  color: black;
 }
 .calendar{
   display: flex;

@@ -22,7 +22,7 @@ h1{
 
 }
 .titre{
-  background: #ffc0cb;
+    background: turquoise;
 }
 .prix_cont{
   justify-content:space-around;
@@ -40,7 +40,8 @@ h1{
   font-weight: normal;
 }
 .reserve{margin: 10px;
-  padding:8px;}
+  padding:8px;
+  background: silver;}
 .det{padding: 10px;}
 .ofres_cont{display: flex;
 }
